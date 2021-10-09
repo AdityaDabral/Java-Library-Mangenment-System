@@ -2,3 +2,7 @@
 amisha
 richa
 aditya
+names
+green
+blue
+purple
